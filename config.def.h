@@ -82,7 +82,7 @@ char *termname = "st-256color";
  */
 unsigned int tabspaces = 2;
 
-#include "base16-solarized-light-theme.h"
+#include "solarized-light-theme.h"
 
 /*
  * Default shape of cursor
